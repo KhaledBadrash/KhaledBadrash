@@ -8,36 +8,39 @@
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=KhaledBadrash&style=flat-square)
-
-- 🔭 I’m currently working on **CIS Schwerpunkt (5th semester): **[Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)**
+- 🔭 I’m currently working on **CIS Schwerpunkt (5th semester): [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)**
 
 - 💻 **Languages:** **Java • Python • JavaScript • HTML • CSS • SQL**
-  
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark&perline=12" />
 
-- ⚙️ **Tech & Tools:** **Linux • MySQL/Oracle • REST/GraphQL • RabbitMQ • Git/GitHub • Postman • Bash/PowerShell • UiPath/Power Automate**
-  
-  <img src="https://skillicons.dev/icons?i=linux,mysql,graphql,rabbitmq,git,github,postman,bash,powershell&theme=dark&perline=12" />
+  [<img src="https://skillicons.dev/icons?i=java&theme=dark" />](https://www.java.com/)
+  [<img src="https://skillicons.dev/icons?i=python&theme=dark" />](https://www.python.org/)
+  [<img src="https://skillicons.dev/icons?i=js&theme=dark" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img src="https://skillicons.dev/icons?i=html&theme=dark" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img src="https://skillicons.dev/icons?i=css&theme=dark" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />](https://www.mysql.com/)
 
+- ⚙️ **Tech & Tools:** **Linux • MySQL/Oracle • REST/GraphQL • RabbitMQ • Spring Boot • Git/GitHub • Postman • Bash/PowerShell • UiPath/Power Automate**
+
+  [<img src="https://skillicons.dev/icons?i=linux&theme=dark" />](https://www.kernel.org/)
+  [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />](https://www.mysql.com/)
+  [<img src="https://skillicons.dev/icons?i=graphql&theme=dark" />](https://graphql.org/)
+  [<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" />](https://www.rabbitmq.com/)
+  [<img src="https://skillicons.dev/icons?i=spring&theme=dark" />](https://spring.io/projects/spring-boot)
+  [<img src="https://skillicons.dev/icons?i=git&theme=dark" />](https://git-scm.com/)
+  [<img src="https://skillicons.dev/icons?i=github&theme=dark" />](https://github.com/)
+  [<img src="https://skillicons.dev/icons?i=postman&theme=dark" />](https://www.postman.com/)
+  [<img src="https://skillicons.dev/icons?i=bash&theme=dark" />](https://www.gnu.org/software/bash/)
+  [<img src="https://skillicons.dev/icons?i=powershell&theme=dark" />](https://learn.microsoft.com/powershell/)
 
 - 🧩 **Modeling:** **UML • BPMN • EPK • ArchiMate** (**Signavio • Astah UML**)
 
-- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibe**)
+
+- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibre**)
 
 
 - 🌱 I’m currently learning **Pentesting** 
-<!--
-**KhaledBadrash/KhaledBadrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div></div>
 
-Here are some ideas to get you started:
+ ![Profile views](https://komarev.com/ghpvc/?username=KhaledBadrash&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
