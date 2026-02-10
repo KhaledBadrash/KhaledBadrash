@@ -31,11 +31,17 @@
   [<img src="https://skillicons.dev/icons?i=postman&theme=dark" />](https://www.postman.com/)
   [<img src="https://skillicons.dev/icons?i=bash&theme=dark" />](https://www.gnu.org/software/bash/)
   [<img src="https://skillicons.dev/icons?i=powershell&theme=dark" />](https://learn.microsoft.com/powershell/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />](https://www.mysql.com/)
+
+
+
+
 
 - 🧩 **Modeling:** **UML • BPMN • EPK • ArchiMate** (**Signavio • Astah UML**)
 
 
 - 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibre**)
+
 
 
 - 🌱 I’m currently learning **Pentesting** 
