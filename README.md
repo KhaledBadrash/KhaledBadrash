@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working on **CIS Schwerpunkt (5th semester): [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)**
+- 🔭 I’m currently working on **CIS specialization (5th semester): [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)**
 
 - 💻 **Languages:** **Java • Python • JavaScript • HTML • CSS • SQL**
 
