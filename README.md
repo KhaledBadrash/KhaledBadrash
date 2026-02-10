@@ -16,14 +16,14 @@
   
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark&perline=12" />
 
-- 🧩 **Modeling:** **UML • BPMN • EPK • ArchiMate** (**Signavio • Astah UML**)
-
-- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibe**)
-
 - ⚙️ **Tech & Tools:** **Linux • MySQL/Oracle • REST/GraphQL • RabbitMQ • Git/GitHub • Postman • Bash/PowerShell • UiPath/Power Automate**
   
   <img src="https://skillicons.dev/icons?i=linux,mysql,graphql,rabbitmq,git,github,postman,bash,powershell&theme=dark&perline=12" />
-  
+
+
+- 🧩 **Modeling:** **UML • BPMN • EPK • ArchiMate** (**Signavio • Astah UML**)
+
+- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibe**)
 
 
 - 🌱 I’m currently learning **Pentesting** 
