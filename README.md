@@ -44,3 +44,7 @@
  ![Profile views](https://komarev.com/ghpvc/?username=KhaledBadrash&style=flat-square)
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Business+Informatics+%40+Frankfurt+UAS;Software+Dev+%7C+Process+Modeling+%7C+Automation;Java+%E2%80%A2+Python+%E2%80%A2+JS+%E2%80%A2+SQL" />
+
+
+
