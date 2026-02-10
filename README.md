@@ -24,9 +24,7 @@
   
   <img src="https://skillicons.dev/icons?i=linux,mysql,graphql,rabbitmq,git,github,postman,bash,powershell&theme=dark&perline=12" />
   
-  ![UiPath](https://img.shields.io/badge/UiPath-2F3136?style=flat-square)
-  ![Power%20Automate](https://img.shields.io/badge/Power%20Automate-2F3136?style=flat-square)
-  
+
 
 - 🌱 I’m currently learning **Pentesting** 
 <!--
