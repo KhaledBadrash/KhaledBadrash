@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Khaled
 
-**A Business Informatics (B.Sc.) student @ Frankfurt UAS (5th semester).**
+**A Business Informatics (B.Sc.) student @ Frankfurt UAS (6th semester).**
 
 [![Email](https://img.shields.io/badge/Email-Khaledashrafamin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Khaledashrafamin@gmail.com)
 
