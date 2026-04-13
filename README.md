@@ -8,7 +8,21 @@
 
 </div>
 
-- 🔭 I’m currently working on **CIS specialization (5th semester): [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)**
+## 🔭 I’m currently working on the following projects
+
+### 🏢 Professional
+- **Large-scale Database & International Mapping Project**  
+  Contributing to the architecture and implementation of a scalable global data infrastructure.
+
+### 🎓 University
+- **CIS Specialization (5th semester)**  [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)
+
+### 🏠 Private
+- **AI Automation Model**  
+  Developing a custom AI-driven automation solution.  
+  *Private repository.*
+
+---
 
 - 💻 **Languages:** **Java • Python • JavaScript • HTML • CSS • SQL**
 
