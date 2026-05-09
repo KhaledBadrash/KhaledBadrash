@@ -15,7 +15,7 @@
   Contributing to the architecture and implementation of a scalable global data infrastructure and data analysis.
 
 ### 🎓 University
-- **CIS Specialization (5th semester)**  [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)
+- **Weiterentwicklung eines bestehenden Chatbot-Prototyps​ (6th semester)**
 
 ### 🏠 Private
 - **AI Automation Model**: Developing a custom AI-driven automation solution.  
