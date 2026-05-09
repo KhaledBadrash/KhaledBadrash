@@ -12,7 +12,7 @@
 
 ### 🏢 Professional
 - **Large-scale Database & International Mapping Project**  
-  Contributing to the architecture and implementation of a scalable global data infrastructure.
+  Contributing to the architecture and implementation of a scalable global data infrastructure and data analysis.
 
 ### 🎓 University
 - **CIS Specialization (5th semester)**  [Modellierung Betrieblicher Informationssysteme](https://github.com/KhaledBadrash/Modellierung-betrieblicher-Informationssysteme)
