@@ -15,7 +15,7 @@
   Contributing to the architecture and implementation of a scalable global data infrastructure and data analysis.
 
 ### 🎓 University
-- **Weiterentwicklung eines bestehenden Chatbot-Prototyps​ (6th semester)**
+- **Further development of an existing chatbot prototype (6th semester)**
 
 ### 🏠 Private
 - **AI Automation Model**: Developing a custom AI-driven automation solution.  
