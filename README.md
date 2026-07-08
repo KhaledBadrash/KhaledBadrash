@@ -11,7 +11,7 @@
 ## 🔭 I’m currently working on the following projects
 
 ### 🏢 Professional
-- **Large-scale Databases & International Mapping Project**  
+- **Large-scale Databases & AI-Solutions/Workflows**  
   Contributing to the architecture and implementation of a scalable global data infrastructure and data analysis.
 
 ### 🎓 University
