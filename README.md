@@ -16,6 +16,7 @@
 
 ### 🎓 University
 - **Further development of an existing\developed KI prototype and custom it for the customer (6th semester)**
+- **Role:** Projektleader
 
 ### 🏠 Private
 - **AI Automation Model**: Developing a custom AI-driven automation solution.  
