@@ -54,7 +54,7 @@
 - 🧩 **Modeling:** **UML • BPMN • EPK • ArchiMate** (**Signavio • Astah UML**)
 
 
-- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibre**)
+- 🗂️ **Project Management:** **Agile • Scrum • Kanban** (**MS Project • ProjectLibre • GitHub/Projects**)
 
 
 
