@@ -15,7 +15,7 @@
   Contributing to the architecture and implementation of a scalable global data infrastructure and data analysis.
 
 ### 🎓 University
-- **Further development of an existing\developed KI prototype and custom it for the customer (6th semester)**
+- **Further development of an existing\developed AI prototype and custom it for the customer (6th semester)**
 - **Role:** Projectleader
 
 ### 🏠 Private
